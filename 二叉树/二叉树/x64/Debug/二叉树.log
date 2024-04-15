@@ -1,0 +1,6 @@
+﻿  FileName.c
+  test.c
+  正在生成代码...
+E:\visual studio\二叉树\二叉树\FileName.c(163,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“tree *”
+E:\visual studio\二叉树\二叉树\FileName.c(163,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "tree *" 的参数 1 冲突
+  二叉树.vcxproj -> E:\visual studio\二叉树\x64\Debug\二叉树.exe
